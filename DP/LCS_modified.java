@@ -1,9 +1,5 @@
 package ax;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class StringTest {
 	public static int factor(int n) {
 	    int fact = 1;
